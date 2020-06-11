@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/wangpan.dir/main.cpp.o  -o wangpan 
